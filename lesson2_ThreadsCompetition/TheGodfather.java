@@ -24,7 +24,7 @@ package lesson2_ThreadsCompetition;
 
 /**
  *
- * @author Santiago Rincón Martínez
+ * @author Tina Rincón Martínez
  */
 public class TheGodfather {
     private final int _N;
