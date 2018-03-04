@@ -9,7 +9,7 @@ package lesson2_ThreadsCompetition;
 
 /**
  *
- * @author Santiago Rincón Martínez
+ * @author Tina Rincón Martínez
  */
 public class Goonie extends Thread{
     private final String _name;
