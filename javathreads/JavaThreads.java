@@ -13,7 +13,7 @@ import lesson2_ThreadsCompetition.TheGodfather;
 
 /**
  *
- * @author Santiago Rincón Martínez
+ * @author Tina Rincón Martínez
  */
 public class JavaThreads {
 
